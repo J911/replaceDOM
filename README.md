@@ -4,8 +4,8 @@ change a part of the DOM
 ## use
 
 ```
-<script src='./lib/htmlParser.js'></script>
-<script src='./replaceDOM.js'></script>  
+<script src='./dist/htmlParser.js'></script>
+<script src='./dist/replaceDOM.js'></script>  
 ```
 ** https://github.com/J911/htmlParser
 ```
